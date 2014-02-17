@@ -1,0 +1,12 @@
+h1 {
+  color: red;
+  font-size: 3em;
+  margin-left: 125px;
+}
+
+#a-unicorn {
+  background-image: url('/image/unicorn.jpg');
+  background-repeat: no-repeat;
+  background-size: auto auto;
+  min-height: 400px;
+}
